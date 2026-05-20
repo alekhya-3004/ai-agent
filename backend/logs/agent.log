@@ -1,0 +1,92 @@
+2026-05-20 17:40:06 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:40:06 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:40:06 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:43:50 | ERROR    | main:global_exception_handler:65 - Unhandled exception on POST /api/auth/register: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 17:44:08 | ERROR    | main:global_exception_handler:65 - Unhandled exception on POST /api/auth/register: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 17:45:01 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 17:45:05 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:45:05 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:45:05 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:45:19 | ERROR    | main:global_exception_handler:65 - Unhandled exception on POST /api/auth/register: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 17:45:51 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 17:46:06 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:46:06 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:46:06 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:46:27 | ERROR    | main:global_exception_handler:65 - Unhandled exception on POST /api/auth/register: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 17:47:22 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 17:47:25 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:47:25 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:47:25 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:47:51 | ERROR    | main:global_exception_handler:65 - Unhandled exception on POST /api/auth/register: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-05-20 17:52:22 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 17:52:25 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:52:25 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:52:25 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:52:25 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 17:52:31 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:52:31 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:52:31 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:52:53 | INFO     | services.auth_service:create_user:92 - Created new user: alekhya_ (alekhyamathsa@gmail.com)
+2026-05-20 17:53:17 | INFO     | agent.memory:get_or_create_conversation:107 - Created new conversation a804f1ec-bb9f-432a-9a2a-ae1ec89a4938 for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 17:53:17 | ERROR    | main:global_exception_handler:65 - Unhandled exception on POST /api/chat/message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-20 17:55:24 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 17:55:28 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:55:28 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:55:28 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:55:33 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 17:55:33 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 17:55:33 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 17:56:16 | INFO     | agent.memory:get_or_create_conversation:107 - Created new conversation 02f1ee51-b357-4a4c-aa41-3ff2edb50203 for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 17:56:17 | ERROR    | agent.react_agent:stream_react_response:151 - Gemini API error on iteration 1: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+2026-05-20 17:56:17 | INFO     | services.chat_service:process_chat_stream:99 - Chat turn complete for user 'alekhya_' in conversation '02f1ee51-b357-4a4c-aa41-3ff2edb50203'
+2026-05-20 18:00:24 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 18:02:59 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 18:02:59 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 18:02:59 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 18:03:50 | INFO     | agent.memory:get_or_create_conversation:107 - Created new conversation aadc60c4-d430-42b4-bad2-98e5de48d9e4 for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 18:03:50 | ERROR    | main:global_exception_handler:65 - Unhandled exception on POST /api/chat/message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-20 18:05:42 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 18:05:45 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 18:05:45 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 18:05:45 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 18:05:47 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 18:05:53 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 18:05:53 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 18:05:53 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 18:06:03 | INFO     | agent.memory:get_or_create_conversation:107 - Created new conversation 3b769037-81cb-466f-8f01-14138f4fff6b for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 18:06:06 | ERROR    | agent.react_agent:stream_react_response:169 - Gemini API error on iteration 1: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 53.901448826s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}
+2026-05-20 18:06:06 | INFO     | services.chat_service:process_chat_stream:99 - Chat turn complete for user 'alekhya_' in conversation '3b769037-81cb-466f-8f01-14138f4fff6b'
+2026-05-20 18:07:01 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 19:45:53 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 19:45:53 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 19:45:53 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 19:46:30 | INFO     | agent.memory:get_or_create_conversation:107 - Created new conversation 1e35e2ea-14a9-4c51-8375-9399d9f385eb for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 19:46:32 | ERROR    | agent.react_agent:stream_react_response:169 - Gemini API error on iteration 1: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 27.801480003s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}
+2026-05-20 19:46:32 | INFO     | services.chat_service:process_chat_stream:99 - Chat turn complete for user 'alekhya_' in conversation '1e35e2ea-14a9-4c51-8375-9399d9f385eb'
+2026-05-20 20:30:43 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 20:30:54 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 20:30:54 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 20:30:54 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 20:31:11 | INFO     | services.chat_service:delete_conversation:170 - Deleted conversation 3b769037-81cb-466f-8f01-14138f4fff6b for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 20:31:13 | INFO     | services.chat_service:delete_conversation:170 - Deleted conversation 02f1ee51-b357-4a4c-aa41-3ff2edb50203 for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 20:31:19 | INFO     | services.chat_service:delete_conversation:170 - Deleted conversation 1e35e2ea-14a9-4c51-8375-9399d9f385eb for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 20:31:23 | INFO     | agent.memory:get_or_create_conversation:107 - Created new conversation c8f3216b-8adc-4682-8d95-bec76de6e9cd for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 20:31:27 | ERROR    | agent.react_agent:stream_react_response:169 - Gemini API error on iteration 1: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-05-20 20:31:27 | INFO     | services.chat_service:process_chat_stream:99 - Chat turn complete for user 'alekhya_' in conversation 'c8f3216b-8adc-4682-8d95-bec76de6e9cd'
+2026-05-20 20:34:21 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 20:34:25 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 20:34:25 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 20:34:26 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 20:35:31 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 20:35:31 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 20:35:31 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 20:35:47 | INFO     | agent.memory:get_or_create_conversation:107 - Created new conversation 9b1fdc54-5963-4600-8d2e-74f0f896ae21 for user 7158f90b-6036-4672-87a9-7d4f3c1399a5
+2026-05-20 20:35:50 | ERROR    | agent.react_agent:stream_react_response:172 - Gemini API error on iteration 1: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Invalid JSON payload received. Unknown name "systemInstruction": Cannot find field.\nInvalid JSON payload received. Unknown name "tools": Cannot find field.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.BadRequest', 'fieldViolations': [{'description': 'Invalid JSON payload received. Unknown name "systemInstruction": Cannot find field.'}, {'description': 'Invalid JSON payload received. Unknown name "tools": Cannot find field.'}]}]}}
+2026-05-20 20:35:50 | INFO     | services.chat_service:process_chat_stream:99 - Chat turn complete for user 'alekhya_' in conversation '9b1fdc54-5963-4600-8d2e-74f0f896ae21'
+2026-05-20 20:37:35 | INFO     | main:lifespan:38 - Shutting down AI Agent.
+2026-05-20 20:37:44 | INFO     | utils.logger:setup_logger:38 - Logger initialized at level: INFO
+2026-05-20 20:37:44 | INFO     | main:lifespan:32 - Starting AI Agent ...
+2026-05-20 20:37:44 | INFO     | main:lifespan:34 - Database tables ready.
+2026-05-20 20:37:54 | ERROR    | agent.react_agent:stream_react_response:169 - Gemini API error on iteration 1: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-lite\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-lite\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-lite\nPlease retry in 5.635809183s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-lite'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-lite'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-lite'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}
+2026-05-20 20:37:54 | INFO     | services.chat_service:process_chat_stream:99 - Chat turn complete for user 'alekhya_' in conversation '9b1fdc54-5963-4600-8d2e-74f0f896ae21'
+2026-05-20 20:45:41 | INFO     | main:lifespan:38 - Shutting down AI Agent.
